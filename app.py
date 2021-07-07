@@ -4,7 +4,7 @@ import pickle
 
 # natural language toolkit
 import nltk 
-
+nltk.download('wordnet')
 # Text cleaning
 import string
 
