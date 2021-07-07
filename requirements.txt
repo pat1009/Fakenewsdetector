@@ -4,4 +4,4 @@ pandas == 1.0.5
 cloudpickle==1.5.0
 pickleshare==0.7.5
 simplegeneric==0.8.1
-regex==2021.3.17
+wordcloud==1.8.1
